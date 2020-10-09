@@ -1,5 +1,5 @@
 
-#Multiply any two numbers from 0 to 50!
+#Add any two numbers from 0 to 50!
 #Change this variable
 a = 0
 #Change this variable
